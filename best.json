@@ -1,1 +1,32 @@
+{
+  "servers": [
+    {
+      "channel_id": "bein_sports_1",
+      "channel_name": "beIN Sports 1",
+      "server_name": "السيرفر الرئيسي",
+      "server_url": "https://example.com/live/stream1.m3u8",
+      "user_agent": "Mozilla/5.0 (Android; Mobile)",
+      "referer": "https://example.com/",
+      "verified_at": "2026-09-10T21:00:00Z"
+    },
+    {
+      "channel_id": "bein_sports_1",
+      "channel_name": "beIN Sports 1",
+      "server_name": "سيرفر احتياطي",
+      "server_url": "https://example.com/live/stream2.m3u8",
+      "user_agent": "StreamPlayerAgent",
+      "referer": "",
+      "verified_at": "2026-09-10T21:05:00Z"
+    },
+    {
+      "channel_id": "ssc_1",
+      "channel_name": "SSC 1 HD",
+      "server_name": "افتراضي",
+      "server_url": "https://example.com/ssc1/index.m3u8",
+      "user_agent": "",
+      "referer": "https://ssc.com",
+      "verified_at": "2026-09-10T20:30:00Z"
+    }
+  ]
+}
 
