@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10 22:32:29",
+  "last_updated": "2026-09-10 22:43:23",
   "servers": [
     {
       "channel_id": "2",
@@ -27,6 +27,15 @@
       "user_agent": "",
       "referer": "",
       "verified_at": "2026-09-10 22:32:29"
+    },
+    {
+      "channel_id": "1",
+      "channel_name": "beIN Sports 1",
+      "server_name": "myTV",
+      "server_url": "https:\/\/shawkat96-zebari.hf.space\/channel\/mytvo4.m3u8",
+      "user_agent": "",
+      "referer": "",
+      "verified_at": "2026-09-10 22:43:23"
     }
   ]
 }
