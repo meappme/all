@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11 23:09:32",
+  "last_updated": "2026-09-11 22:13:04",
   "servers": [
     {
       "channel_id": "2",
@@ -117,6 +117,15 @@
       "user_agent": "",
       "referer": "",
       "verified_at": "2026-09-11 23:09:32"
+    },
+    {
+      "channel_id": "2",
+      "channel_name": "beIN Sports 2",
+      "server_name": "proxpanel",
+      "server_url": "http:\/\/proxpanel.cc:80\/h1wqD6CY\/byxHYgX\/707928",
+      "user_agent": "",
+      "referer": "",
+      "verified_at": "2026-09-11 22:13:04"
     }
   ]
 }
