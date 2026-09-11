@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11 17:34:16",
+  "last_updated": "2026-09-11 19:54:28",
   "servers": [
     {
       "channel_id": "2",
@@ -90,6 +90,15 @@
       "user_agent": "",
       "referer": "https:\/\/hamis.romponalis.st\/",
       "verified_at": "2026-09-11 17:34:16"
+    },
+    {
+      "channel_id": "1",
+      "channel_name": "beIN Sports 1",
+      "server_name": "NEO FHD",
+      "server_url": "https:\/\/redperch.space\/neocardinalv2.php?id=bein_1_4k.ts",
+      "user_agent": "",
+      "referer": "",
+      "verified_at": "2026-09-11 19:54:28"
     }
   ]
 }
