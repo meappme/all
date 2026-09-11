@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11 10:23:28",
+  "last_updated": "2026-09-11 13:28:02",
   "servers": [
     {
       "channel_id": "2",
@@ -72,6 +72,15 @@
       "user_agent": "",
       "referer": "",
       "verified_at": "2026-09-11 10:23:28"
+    },
+    {
+      "channel_id": "1",
+      "channel_name": "beIN Sports 1",
+      "server_name": "SD LOW",
+      "server_url": "http:\/\/194.76.0.163\/8zpo3GsVY7\/beneficial2concern\/652372?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
+      "user_agent": "",
+      "referer": "",
+      "verified_at": "2026-09-11 13:28:02"
     }
   ]
 }
