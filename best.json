@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12 18:58:48",
+  "last_updated": "2026-09-12 22:02:52",
   "servers": [
     {
       "channel_id": "2",
@@ -162,6 +162,15 @@
       "user_agent": "",
       "referer": "",
       "verified_at": "2026-09-12 18:58:48"
+    },
+    {
+      "channel_id": "2",
+      "channel_name": "beIN Sports 2",
+      "server_name": "VIP 1",
+      "server_url": "dcardinal@92",
+      "user_agent": "",
+      "referer": "https:\/\/hamis.romponalis.st\/",
+      "verified_at": "2026-09-12 22:02:52"
     }
   ]
 }
