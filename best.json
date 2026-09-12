@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12 22:02:52",
+  "last_updated": "2026-09-12 22:03:06",
   "servers": [
     {
       "channel_id": "2",
@@ -171,6 +171,15 @@
       "user_agent": "",
       "referer": "https:\/\/hamis.romponalis.st\/",
       "verified_at": "2026-09-12 22:02:52"
+    },
+    {
+      "channel_id": "2",
+      "channel_name": "beIN Sports 2",
+      "server_name": "HD GOOD",
+      "server_url": "http:\/\/194.76.0.163\/8zpo3GsVY7\/beneficial2concern\/652351?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
+      "user_agent": "",
+      "referer": "",
+      "verified_at": "2026-09-12 22:03:06"
     }
   ]
 }
