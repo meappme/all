@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15 19:03:51",
+  "last_updated": "2026-09-15 21:06:29",
   "servers": [
     {
       "channel_id": "4",
@@ -162,6 +162,15 @@
       "user_agent": "",
       "referer": "",
       "verified_at": "2026-09-15 19:03:51"
+    },
+    {
+      "channel_id": "1",
+      "channel_name": "beIN Sports 1",
+      "server_name": "NEO HD",
+      "server_url": "https:\/\/redperch.space\/neocardinalv2.php?id=bein_1_hd.ts",
+      "user_agent": "",
+      "referer": "",
+      "verified_at": "2026-09-15 21:06:29"
     }
   ]
 }
