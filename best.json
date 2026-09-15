@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15 03:05:10",
+  "last_updated": "2026-09-15 19:03:51",
   "servers": [
     {
       "channel_id": "4",
@@ -153,6 +153,15 @@
       "user_agent": "",
       "referer": "",
       "verified_at": "2026-09-15 03:05:10"
+    },
+    {
+      "channel_id": "1",
+      "channel_name": "beIN Sports 1",
+      "server_name": "TOD",
+      "server_url": "https:\/\/redperch.space\/alphacardinal.php?id=tod_1",
+      "user_agent": "",
+      "referer": "",
+      "verified_at": "2026-09-15 19:03:51"
     }
   ]
 }
