@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20 16:03:37",
+  "last_updated": "2026-09-20 16:06:04",
   "servers": [
     {
       "channel_id": "2",
@@ -144,6 +144,15 @@
       "user_agent": "",
       "referer": "",
       "verified_at": "2026-09-20 16:03:37"
+    },
+    {
+      "channel_id": "4",
+      "channel_name": "beIN Sports 4",
+      "server_name": "Multi",
+      "server_url": "https:\/\/raw.githubusercontent.com\/Cutsiffa\/pl\/refs\/heads\/main\/Bs4.m3u8",
+      "user_agent": "",
+      "referer": "",
+      "verified_at": "2026-09-20 16:06:04"
     }
   ]
 }
