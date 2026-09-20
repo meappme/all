@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20 16:06:04",
+  "last_updated": "2026-09-20 18:26:55",
   "servers": [
     {
       "channel_id": "2",
@@ -153,6 +153,15 @@
       "user_agent": "",
       "referer": "",
       "verified_at": "2026-09-20 16:06:04"
+    },
+    {
+      "channel_id": "1",
+      "channel_name": "beIN Sports 1",
+      "server_name": "TOD",
+      "server_url": "https:\/\/redperch.space\/neocardinalv2.php?id=tod.ts",
+      "user_agent": "",
+      "referer": "",
+      "verified_at": "2026-09-20 18:26:55"
     }
   ]
 }
