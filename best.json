@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25 20:23:33",
+  "last_updated": "2026-09-25 21:42:36",
   "servers": [
     {
       "channel_id": "2",
@@ -63,6 +63,15 @@
       "user_agent": "",
       "referer": "",
       "verified_at": "2026-09-25 20:23:33"
+    },
+    {
+      "channel_id": "4",
+      "channel_name": "beIN Sports 4",
+      "server_name": "Server 16",
+      "server_url": "vcardinal@3361859431e26d48a93ca2",
+      "user_agent": "",
+      "referer": "",
+      "verified_at": "2026-09-25 21:42:36"
     }
   ]
 }
