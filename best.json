@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03 21:50:38",
+  "last_updated": "2026-10-04 22:04:34",
   "servers": [
     {
       "channel_id": "1",
@@ -8,34 +8,7 @@
       "server_url": "http:\/\/194.76.0.163\/8zpo3GsVY7\/beneficial2concern\/652372?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
       "user_agent": "",
       "referer": "",
-      "verified_at": "2026-10-02 21:30:23"
-    },
-    {
-      "channel_id": "1",
-      "channel_name": "beIN Sports 1",
-      "server_name": "NEO FHD",
-      "server_url": "https:\/\/redperch.space\/neocardinalv2.php?id=bein_1_4k.ts",
-      "user_agent": "",
-      "referer": "",
-      "verified_at": "2026-10-03 18:33:15"
-    },
-    {
-      "channel_id": "1",
-      "channel_name": "beIN Sports 1",
-      "server_name": "NEO SD",
-      "server_url": "https:\/\/redperch.space\/neocardinalv2.php?id=bein_1_SD.ts",
-      "user_agent": "",
-      "referer": "",
-      "verified_at": "2026-10-03 17:41:21"
-    },
-    {
-      "channel_id": "2",
-      "channel_name": "beIN Sports 2",
-      "server_name": "NEO FHD",
-      "server_url": "https:\/\/redperch.space\/neocardinalv2.php?id=bein_2_4k.ts",
-      "user_agent": "",
-      "referer": "",
-      "verified_at": "2026-10-03 21:50:38"
+      "verified_at": "2026-10-04 22:04:34"
     }
   ]
 }
