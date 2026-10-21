@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21 22:15:16",
+  "last_updated": "2026-10-21 23:25:17",
   "servers": [
     {
       "channel_id": "1",
@@ -27,6 +27,15 @@
       "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/150.0.0.0 Safari\/537.36",
       "referer": "",
       "verified_at": "2026-10-21 22:15:16"
+    },
+    {
+      "channel_id": "2",
+      "channel_name": "beIN Sports 2",
+      "server_name": "VIP 2",
+      "server_url": "Rget@https:\/\/wideiptv.top\/player\/beINAR2|h.User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F153.0.0.0%20Safari%2F537.36|h.Referer=https%3A%2F%2Fwideiptv.top%2Fdaddy.php%3Fstream%3DbeINAR2",
+      "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/153.0.0.0 Safari\/537.36",
+      "referer": "https:\/\/wideiptv.top\/daddy.php?stream=beINAR2",
+      "verified_at": "2026-10-21 23:25:17"
     }
   ]
 }
