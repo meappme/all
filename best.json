@@ -1,59 +1,14 @@
 {
-  "last_updated": "2026-10-22 05:11:54",
+  "last_updated": "2026-10-24 00:49:10",
   "servers": [
     {
       "channel_id": "1",
       "channel_name": "beIN Sports 1",
-      "server_name": "IP SD 2",
-      "server_url": "https:\/\/re00.new-redirect.online\/live\/lb2\/bs1-multi.m3u8",
-      "user_agent": "",
-      "referer": "",
-      "verified_at": "2026-10-21 21:51:51"
-    },
-    {
-      "channel_id": "2",
-      "channel_name": "beIN Sports 2",
-      "server_name": "IP SD",
-      "server_url": "http:\/\/194.76.0.163\/8zpo3GsVY7\/beneficial2concern\/652373?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
-      "user_agent": "",
-      "referer": "",
-      "verified_at": "2026-10-21 21:58:14"
-    },
-    {
-      "channel_id": "2",
-      "channel_name": "beIN Sports 2",
-      "server_name": "AP",
-      "server_url": "Rget@https:\/\/live.alwan.live\/api_v3\/service\/getcardinal\/becardinal2|h.WeAre=rtvcardinal",
-      "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/150.0.0.0 Safari\/537.36",
-      "referer": "",
-      "verified_at": "2026-10-21 22:15:16"
-    },
-    {
-      "channel_id": "2",
-      "channel_name": "beIN Sports 2",
-      "server_name": "VIP 2",
-      "server_url": "Rget@https:\/\/wideiptv.top\/player\/beINAR2|h.User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F153.0.0.0%20Safari%2F537.36|h.Referer=https%3A%2F%2Fwideiptv.top%2Fdaddy.php%3Fstream%3DbeINAR2",
-      "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/153.0.0.0 Safari\/537.36",
-      "referer": "https:\/\/wideiptv.top\/daddy.php?stream=beINAR2",
-      "verified_at": "2026-10-21 23:25:17"
-    },
-    {
-      "channel_id": "1",
-      "channel_name": "beIN Sports 1",
-      "server_name": "SD",
-      "server_url": "https:\/\/cp11.adabmedia.com\/hls2\/bein1.m3u8",
-      "user_agent": "",
-      "referer": "",
-      "verified_at": "2026-10-22 01:08:42"
-    },
-    {
-      "channel_id": "1",
-      "channel_name": "beIN Sports 1",
-      "server_name": "Reezn FHD",
-      "server_url": "https:\/\/redperch.space\/dramacardinalv2.php?id=beinsport1_4K",
+      "server_name": "balance",
+      "server_url": "https:\/\/balance.footballii.ir\/hls2\/bein1.m3u8",
       "user_agent": "okhttp\/4.12.0",
       "referer": "",
-      "verified_at": "2026-10-22 05:11:54"
+      "verified_at": "2026-10-24 00:49:10"
     }
   ]
 }
