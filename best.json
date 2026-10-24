@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24 19:43:30",
+  "last_updated": "2026-10-24 19:50:30",
   "servers": [
     {
       "channel_id": "1",
@@ -27,6 +27,15 @@
       "user_agent": "",
       "referer": "",
       "verified_at": "2026-10-24 19:43:30"
+    },
+    {
+      "channel_id": "1",
+      "channel_name": "beIN Sports 1",
+      "server_name": "SD",
+      "server_url": "https:\/\/cp11.adabmedia.com\/hls2\/bein1.m3u8",
+      "user_agent": "",
+      "referer": "",
+      "verified_at": "2026-10-24 19:50:30"
     }
   ]
 }
