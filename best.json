@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25 20:52:51",
+  "last_updated": "2026-10-25 22:57:15",
   "servers": [
     {
       "channel_id": "1",
@@ -36,6 +36,15 @@
       "user_agent": "okhttp\/4.12.0",
       "referer": "",
       "verified_at": "2026-10-25 20:52:51"
+    },
+    {
+      "channel_id": "1",
+      "channel_name": "beIN Sports 1",
+      "server_name": "alwan hd",
+      "server_url": "http:\/\/smar55cob.site\/live\/co0508509282\/536808532368\/772278.ts",
+      "user_agent": "okhttp\/4.12.0",
+      "referer": "",
+      "verified_at": "2026-10-25 22:57:15"
     }
   ]
 }
