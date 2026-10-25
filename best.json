@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25 18:39:37",
+  "last_updated": "2026-10-25 22:35:34",
   "servers": [
     {
       "channel_id": "1",
@@ -18,6 +18,15 @@
       "user_agent": "okhttp\/4.12.0",
       "referer": "",
       "verified_at": "2026-10-25 18:39:37"
+    },
+    {
+      "channel_id": "1",
+      "channel_name": "beIN Sports 1",
+      "server_name": "SD",
+      "server_url": "https:\/\/cp11.adabmedia.com\/hls2\/bein1.m3u8",
+      "user_agent": "okhttp\/4.12.0",
+      "referer": "",
+      "verified_at": "2026-10-25 22:35:34"
     }
   ]
 }
