@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08 14:13:16",
+  "last_updated": "2026-11-08 21:27:50",
   "servers": [
     {
       "channel_id": "3",
@@ -63,6 +63,15 @@
       "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/153.0.0.0 Safari\/537.36",
       "referer": "https:\/\/wideiptv.top\/daddy.php?stream=beINAR",
       "verified_at": "2026-11-08 14:13:16"
+    },
+    {
+      "channel_id": "4",
+      "channel_name": "beIN Sports 4",
+      "server_name": "Reezn FHD",
+      "server_url": "https:\/\/redperch.space\/dramacardinalv2.php?id=beinsport4_4k",
+      "user_agent": "okhttp\/4.12.0",
+      "referer": "",
+      "verified_at": "2026-11-08 21:27:50"
     }
   ]
 }
