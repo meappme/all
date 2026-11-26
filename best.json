@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26 22:20:02",
+  "last_updated": "2026-11-26 22:27:09",
   "servers": [
     {
       "channel_id": "1",
@@ -9,6 +9,15 @@
       "user_agent": "okhttp\/4.12.0",
       "referer": "",
       "verified_at": "2026-11-26 22:20:02"
+    },
+    {
+      "channel_id": "4",
+      "channel_name": "beIN Sports 4",
+      "server_name": "Reezn HD",
+      "server_url": "https:\/\/redperch.space\/dramacardinalv2.php?id=beinsport4_hd",
+      "user_agent": "okhttp\/4.12.0",
+      "referer": "",
+      "verified_at": "2026-11-26 22:27:09"
     }
   ]
 }
