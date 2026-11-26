@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25 21:16:19",
+  "last_updated": "2026-11-26 22:20:02",
   "servers": [
     {
       "channel_id": "1",
@@ -8,70 +8,7 @@
       "server_url": "https:\/\/redperch.space\/dramacardinalv2.php?id=beinsport1_hd",
       "user_agent": "okhttp\/4.12.0",
       "referer": "",
-      "verified_at": "2026-11-24 23:15:06"
-    },
-    {
-      "channel_id": "1",
-      "channel_name": "beIN Sports 1",
-      "server_name": "SD",
-      "server_url": "https:\/\/cp11.adabmedia.com\/hls2\/bein1.m3u8",
-      "user_agent": "okhttp\/4.12.0",
-      "referer": "",
-      "verified_at": "2026-11-24 23:41:54"
-    },
-    {
-      "channel_id": "1",
-      "channel_name": "beIN Sports 1",
-      "server_name": "Reezn SD",
-      "server_url": "https:\/\/redperch.space\/dramacardinalv2.php?id=beinsport1_sd",
-      "user_agent": "okhttp\/4.12.0",
-      "referer": "",
-      "verified_at": "2026-11-25 00:26:08"
-    },
-    {
-      "channel_id": "3",
-      "channel_name": "beIN Sports 3",
-      "server_name": "Reezn FHD",
-      "server_url": "https:\/\/redperch.space\/dramacardinalv2.php?id=beinsport3_4k",
-      "user_agent": "okhttp\/4.12.0",
-      "referer": "",
-      "verified_at": "2026-11-25 00:30:39"
-    },
-    {
-      "channel_id": "4",
-      "channel_name": "beIN Sports 4",
-      "server_name": "Reezn FHD",
-      "server_url": "https:\/\/redperch.space\/dramacardinalv2.php?id=beinsport4_4k",
-      "user_agent": "okhttp\/4.12.0",
-      "referer": "",
-      "verified_at": "2026-11-25 00:42:37"
-    },
-    {
-      "channel_id": "2",
-      "channel_name": "beIN Sports 2",
-      "server_name": "Reezn FHD",
-      "server_url": "https:\/\/redperch.space\/dramacardinalv2.php?id=beinsport2_4K",
-      "user_agent": "okhttp\/4.12.0",
-      "referer": "",
-      "verified_at": "2026-11-25 20:09:41"
-    },
-    {
-      "channel_id": "3",
-      "channel_name": "beIN Sports 3",
-      "server_name": "Reezn SD 2",
-      "server_url": "https:\/\/redperch.space\/dramacardinalv2.php?id=beinsport3_sd",
-      "user_agent": "okhttp\/4.12.0",
-      "referer": "",
-      "verified_at": "2026-11-25 21:04:51"
-    },
-    {
-      "channel_id": "3",
-      "channel_name": "beIN Sports 3",
-      "server_name": "Reezn HD",
-      "server_url": "https:\/\/redperch.space\/dramacardinalv2.php?id=beinsport3_hd",
-      "user_agent": "okhttp\/4.12.0",
-      "referer": "",
-      "verified_at": "2026-11-25 21:16:19"
+      "verified_at": "2026-11-26 22:20:02"
     }
   ]
 }
